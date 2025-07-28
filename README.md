@@ -35,4 +35,7 @@ Soy una ingeniera ambiental con experiencia en sostenibilidad, análisis de dato
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [`Python basics(1).ipynb`](Python basics(1).ipynb) | A hands‑on exercise in basic Python data cleaning and manipulation: trimming whitespace, converting types (float→int), splitting full names into first/last, and structuring customer records for 
+| [`Python basics(1).ipynb`](Python basics(1).ipynb) | A hands‑on exercise in basic Python data cleaning and manipulation: trimming whitespace, converting types (float→int), splitting full names into first/last, and structuring customer records for | Python (Pandas, NumPy) |
+| [`Data_Wrangling (1).ipynb`](Data_Wrangling%20(1).ipynb) | An in‑depth demonstration of data wrangling techniques: handling missing values, merging and concatenating DataFrames, reshaping tables with pivot/melt, and preparing datasets for analysis. | Python (built‑ins: list operations, string methods, type conversion, functions) |
+| [`PythonBasics_II.ipynb`](PythonBasics_II.ipynb)       | Advanced Python fundamentals: control flow, user‑defined functions, list comprehensions, and basic data visualization with Matplotlib and Seaborn.           | Python (Pandas: DataFrame operations, merging, reshaping|
+
