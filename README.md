@@ -31,4 +31,8 @@ Soy una ingeniera ambiental con experiencia en sostenibilidad, análisis de dato
 - SQL (PostgreSQL, SQLite)
 - Git & GitHub
 - APIs y Web Scraping
-  
+  ## 📁 Project Index
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [`Python basics(1).ipynb`](Python basics(1).ipynb) | A hands‑on exercise in basic Python data cleaning and manipulation: trimming whitespace, converting types (float→int), splitting full names into first/last, and structuring customer records for 
